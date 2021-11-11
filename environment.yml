@@ -3,7 +3,6 @@ dependencies:
 - python >= 3.8.0
 - pip
 - pytest
-- conda-forge::flask-bootstrap
 - jupyter
 - conda-forge::jupyter_contrib_nbextensions
 - conda-forge::jupyterlab
