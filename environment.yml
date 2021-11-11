@@ -1,0 +1,21 @@
+name: ml 
+dependencies:
+- python >= 3.8.0
+- pip
+- pytest
+- conda-forge::flask-bootstrap
+- jupyter
+- conda-forge::jupyter_contrib_nbextensions
+- conda-forge::jupyterlab
+- git
+- numpy
+- matplotlib
+- scipy
+- conda-forge::category_encoders
+- conda-forge::shap
+- pip:
+  - pip >= 19.0
+  - kaggle
+  - tensorflow
+ # - pycaret
+  
